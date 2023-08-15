@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    background-color: lightslategray;
+}
+/* ფერი შევცვალე რადგან თეთრის ყურება არ მომწონს :) */
+#inputt{
+    width: 400px;
+}
+#divv{
+    width: 350px;
+    height : 150px;
+    border: 2px solid black;
+    margin: 10px;
+    position: relative;
+    left: 430px;
+}
+.three{
+    width : 330px;
+    height: 60px;
+    border: 2px solid black;
+    position: relative;
+    left: 450px;
+    margin: 10px
+}
+div{
+    background-color: white;
+}
+#dsif{
+    width : 80px;
+    height: 80px;
+    margin-left: 1200px;
+}
